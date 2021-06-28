@@ -20,7 +20,7 @@ I have been studying programming part-time for a number of years and try to fit 
 
 ### * Frameworks/Mobile
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)
