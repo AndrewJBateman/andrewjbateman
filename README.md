@@ -8,7 +8,7 @@ I have been studying programming part-time for a number of years and try to fit 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bateman/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white&link=mailto:gomezbateman@gmail.com)](mailto:gomezbateman@gmail.com)
-[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=plastic&logo=buffer&logoColor=white)](https://joshsomthin.github.io/)
+[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=plastic&logo=buffer&logoColor=white)](https://andrewbateman.org/)
 
 ### * Languages
 
