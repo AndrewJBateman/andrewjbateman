@@ -20,7 +20,7 @@ I have been studying programming part-time for a number of years and try to fit 
 
 ### * Frameworks/Mobile
 
-![Angular](https://img.shields.io/badge/AngularJS-E23237?style=plastic&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=plastic&logo=ionic&logoColor=white)
@@ -39,6 +39,7 @@ I have been studying programming part-time for a number of years and try to fit 
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=plastic&logo=graphql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)
 
 ### * Databases:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
@@ -50,13 +51,12 @@ I have been studying programming part-time for a number of years and try to fit 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white)
-![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=plastic&logo=glitch&logoColor=white)
-![Cordova](https://img.shields.io/badge/Cordova-35434F?style=plastic&logo=apache-cordova&logoColor=E8E8E8)
 
 ### * IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 ![IntellijIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
+![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=plastic&logo=glitch&logoColor=white)
 
 <details>
   <summary> ⚡ GitHub Stats</summary>
