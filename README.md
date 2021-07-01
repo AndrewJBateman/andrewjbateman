@@ -1,8 +1,6 @@
-### Hi there 👋, I'm Andrew!
+Hi 👋, I have been fitting my programming into every spare moment for many years. Before I worked for 20 years as an Electronic/Electrical Engineer in the UK, Spain & Norway (including Hammerfest, the world's Northermost town).
 
-I have been studying programming part-time for a number of years and try to fit coding into every spare moment. I previously worked for 20 years as an Electronic/Electrical Engineer in the UK, Spain and finally in Norway (including 2 years in Hammerfest, the Northermost town in the world).
-
-* Currently working on javascript-based projects using a range of frameworks, particularly Angular and I just discovered Nx monorepos
+* Currently working on many javascript-based projects using a range of frameworks, particularly Angular and I just discovered Nx monorepos
 * Learning Java & Python
 * Looking to collaborate on a charity-based project in English, Spanish or French using my programming/engineering knowledge
 
